@@ -1,0 +1,14 @@
+#parrafo {
+    margin-left: 30px;
+}
+body {
+    margin: 50px;
+}
+
+h1 {
+    font-size: 3em;
+}
+p {
+    margin: 2px 2px;
+    font-size: 20px;
+}
